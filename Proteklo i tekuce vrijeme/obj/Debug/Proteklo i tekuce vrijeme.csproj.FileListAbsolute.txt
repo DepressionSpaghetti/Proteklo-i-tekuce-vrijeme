@@ -1,0 +1,11 @@
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo i tekuce vrijeme.csproj.AssemblyReference.cache
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo i tekuce vrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo i tekuce vrijeme.csproj.CoreCompileInputs.cache
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\TekuceVrijeme.Form1.resources
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\Proteklo i tekuce vrijeme.csproj.GenerateResource.cache
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\TekuceVrijeme.exe.config
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\TekuceVrijeme.exe
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\bin\Debug\TekuceVrijeme.pdb
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\TekuceVrijeme.Properties.Resources.resources
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\TekuceVrijeme.exe
+C:\Users\Piero\Documents\School\NiOP\Proteklo i tekuce vrijeme\Proteklo i tekuce vrijeme\obj\Debug\TekuceVrijeme.pdb
